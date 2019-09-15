@@ -23,5 +23,8 @@ describe '#speak_to_grandma' do
     expect(speak_to_grandma('WHAT?')).to eq "NO, NOT SINCE 1938!"
   end
 
+if 5 > 2
+  print "5 is greater than 2"
+end
 
 
